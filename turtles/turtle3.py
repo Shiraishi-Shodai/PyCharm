@@ -1,0 +1,16 @@
+ # ペンを上げる、下ろす
+from turtle import *
+shape("turtle")
+color("purple")
+circle(30)
+penup()
+forward(40)
+pendown()
+circle(30)
+penup()
+forward(40)
+pendown()
+circle(30)
+penup()
+forward(40)
+pendown()

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Janome-Tester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/book_recommendation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/suhi_recommendation" vcs="Git" />
+  </component>
+</project>
